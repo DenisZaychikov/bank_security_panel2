@@ -1,4 +1,4 @@
-Django==1.11.29
+Django==2.2.24
 environs==7.4.0
 marshmallow==3.6.0
 psycopg2-binary==2.8.5
